@@ -1,5 +1,5 @@
 # 2048-Game-with-Python
-## Author: Kate Saslow
+### Author: Kate Saslow
 
 Popular 2048 game designed and built with Python and Turtle, using functional programming for the game logic and OO-design for the GUI
 
@@ -16,7 +16,7 @@ For all Turtle code, I chose functional design, and passed the Board object to t
 - BoardClass.py
 This file contains all the game logic and design. 
 Functions in this file include:
-	- \__init\__ to initiate the object instance and game board
+	- \__\init\__ to initiate the object instance and game board
 	- initialize_array to initialize the 4x4 grid of the game board
 	- all directions merge_up/down/left/right functions to shift and merge the values on board
 	- add_2or4 to add a new 2 or 4 randomly to an empty space in the board to advance game
